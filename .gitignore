@@ -1,0 +1,18 @@
+
+# LiCSBAS outputs
+**/GEOC*/
+#**/TS_GEOC*/
+**/*zip
+
+# ERA5
+**/ERA5/
+
+# Zip files
+*.zip
+
+# TIFs grandes
+*.tif
+*.tiff
+*.zip
+*.zip.part
+.ipynb_checkpoints/.~lock.*

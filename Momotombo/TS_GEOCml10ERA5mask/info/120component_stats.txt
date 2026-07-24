@@ -1,0 +1,6 @@
+Number_of_connected_components: 1
+Largest_cc_edge_number: 558
+Largest_cc_node_number: 141
+Largest_cc_average_degree: 7
+Largest_cc_edge_connectivity: 3
+Largest_cc_node_connectivity: 2
