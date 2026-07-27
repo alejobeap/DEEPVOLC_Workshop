@@ -1,0 +1,12 @@
+filtwidth_km:  2
+filtwidth_xpixels:  6.8
+filtwidth_ypixels:  6.7
+filtwidth_yr:  0.126
+filtwidth_day:  46
+deg_ramp:  []
+demerr:  0
+hgt_linear:  0
+hgt_min: 32
+hgt_max: 1309
+range: []
+ex_range: []
